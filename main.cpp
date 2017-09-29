@@ -29,7 +29,7 @@ int main()
                 }
         if(a!=1)
             {
-                cout<<"max :";cout<<max;
+                cout<<max;
                 return 0;
             }
        }
